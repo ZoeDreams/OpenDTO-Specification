@@ -2,7 +2,7 @@
 
 ![Circle of Enlightenment](https://i.ibb.co/GJkbxgm/1-JLPpr0r85-X0a7yto-NVgfhw-9806703.jpg)
 
-The OpenDTO Specification is currently just a concept and idea. This project is not related currently to the OpenAPI initiative. The main objective of this project is should.
+The OpenDTO Specification is currently a question, "Can we represent any data model universally?. Similiar to the research that Google Labs released on Protocol Buffers; OpenDTO's main object is to see if we can create a compiler that can generate data models which can interchangeably work with any programming language agnostically. Accomplishing this solution will allow our ever growing IoT and embedded control processors (arduino, 3d printers, robotics, etc.) 
 
 The OpenDTO Specification (ODS) defines a standard, programming language-agnostic interface description for HTTP DTOs (Data Transfer Objects), which allows both humans and computers to discover and understand the capabilities of data modeling without requiring access to source code, database  sql, additional documentation, or inspection of network traffic. When properly defined via OpenDTO, a consumer can understand and interact with nonlocalized data models with a minimal amount of implementation logic. Similar to what interface descriptionshave done for lower-level programming, the OpenDTO Specification removes guesswork in sharing and using data models.
 
