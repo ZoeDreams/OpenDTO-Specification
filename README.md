@@ -1,6 +1,6 @@
 # The OpenDTO Specification
 
-![] (https://thezenuniverse.org/wp-content/uploads/2019/12/1_JLPpr0r85X0a7ytoNVgfhw-9806703.jpeg)
+![Circle of Enlightenment](https://i.ibb.co/GJkbxgm/1-JLPpr0r85-X0a7yto-NVgfhw-9806703.jpg)
 
 The OpenDTO Specification is currently just a concept and idea. This project is not related currently to the OpenAPI initiative. The main objective of this project is should.
 
