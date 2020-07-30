@@ -4,7 +4,7 @@
 
 ## Our Goal
 
-The OpenDTO Specification is currently a question, "Can we represent any data model universally?. Similiar to the research that Google Labs released on Protocol Buffers; OpenDTO's main object is to see if we can create a compiler that can generate data models which can interchangeably work with any programming language agnostically. Accomplishing this solution will allow our ever growing IoT and embedded control processors (arduino, 3d printers, robotics, etc.) This is also a requirement when streaming data between classical and quantum computer systems. Without a universal algorthm to build and validate these buffer's... well lets get coding!
+The OpenDTO Specification is currently a question, "Can we represent any data model universally?. Similiar to the research that Google Labs released on Protocol Buffers; OpenDTO's main object is to see if we can create a compiler that can generate data models which can interchangeably work with any programming language agnostically. Accomplishing this solution will allow our ever growing IoT and embedded control processors (arduino, 3d printers, robotics, etc.) to communicate together through machine code. This is a requirement when streaming data between classical and quantum computer systems. Without a universal algorthm to build and validate these buffer's... well lets get coding!
 
 ## The Specification
 
